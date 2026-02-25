@@ -16,9 +16,10 @@ footer p {
 }
 
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;
-    font-size: xx-large;
-    padding: 50px
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(199, 27, 27);
+    font-size: 100px;
+    text-align: center;
+    
     
 }
